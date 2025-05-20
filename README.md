@@ -42,6 +42,7 @@ Aplicația folosește biblioteca **Jakarta Mail** pentru interacțiunea cu serve
 
 ## ▶️ Cum rulezi aplicația?
 Ruleaza clasa MainApp din foldelul emailClient, dupa alegeti una dintre optiuni
+
 ![image](https://github.com/user-attachments/assets/1c6b1e34-c24c-48da-b4da-4172ea2e89ce)
 
 Clonează acest repository:
