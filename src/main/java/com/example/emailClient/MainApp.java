@@ -6,7 +6,7 @@ public class MainApp {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
         String email = "dumitrufrimu118@gmail.com";
-        String appPassword = "leff uapb hqtn eaji";
+        String appPassword = "Parola mea de aplicatie de la gmail";
 
         while (true) {
             System.out.println("\n=== EMAIL CLIENT ===");
